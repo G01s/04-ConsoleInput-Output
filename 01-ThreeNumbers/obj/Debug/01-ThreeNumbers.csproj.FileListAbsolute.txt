@@ -1,0 +1,6 @@
+D:\proeti\04-ConsoleInput-Output\01-ThreeNumbers\bin\Debug\01-ThreeNumbers.exe.config
+D:\proeti\04-ConsoleInput-Output\01-ThreeNumbers\bin\Debug\01-ThreeNumbers.exe
+D:\proeti\04-ConsoleInput-Output\01-ThreeNumbers\bin\Debug\01-ThreeNumbers.pdb
+D:\proeti\04-ConsoleInput-Output\01-ThreeNumbers\obj\Debug\01-ThreeNumbers.csprojResolveAssemblyReference.cache
+D:\proeti\04-ConsoleInput-Output\01-ThreeNumbers\obj\Debug\01-ThreeNumbers.exe
+D:\proeti\04-ConsoleInput-Output\01-ThreeNumbers\obj\Debug\01-ThreeNumbers.pdb

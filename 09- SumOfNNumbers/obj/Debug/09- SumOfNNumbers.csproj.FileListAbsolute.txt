@@ -1,0 +1,5 @@
+D:\proeti\04-ConsoleInput-Output\09- SumOfNNumbers\bin\Debug\09- SumOfNNumbers.exe.config
+D:\proeti\04-ConsoleInput-Output\09- SumOfNNumbers\bin\Debug\09- SumOfNNumbers.exe
+D:\proeti\04-ConsoleInput-Output\09- SumOfNNumbers\bin\Debug\09- SumOfNNumbers.pdb
+D:\proeti\04-ConsoleInput-Output\09- SumOfNNumbers\obj\Debug\09- SumOfNNumbers.exe
+D:\proeti\04-ConsoleInput-Output\09- SumOfNNumbers\obj\Debug\09- SumOfNNumbers.pdb
